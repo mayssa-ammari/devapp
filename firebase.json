@@ -1,0 +1,20 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"application-gym-deve","appId":"1:523386495804:android:ebb9694902c849b65f3439","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"application-gym-deve","configurations":{"android":"1:523386495804:android:ebb9694902c849b65f3439","ios":"1:523386495804:ios:be4ba74db30ece765f3439","web":"1:523386495804:web:7db2051e5236573c5f3439","windows":"1:523386495804:web:e97803e67e6236685f3439"}}}}}}
+
+{
+  "date": "2024-05-13",
+  "dureeEntrainement": 90,
+  "calories": 820,
+  "poids": 60
+}
+{
+  "date": "2024-05-14",
+  "dureeEntrainement": 45,
+  "calories": 900,
+  "poids": 70
+}
+{
+  "date": "2024-05-15",
+  "dureeEntrainement": 120,
+  "calories": 920,
+  "poids": 63
+}
